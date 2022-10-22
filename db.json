@@ -1,11 +1,20 @@
 {
-  "dogs": [
+  "furniture": [
     {
       "id": 1,
-      "name": "Cherry",
-      "age": 2,
-      "place": "Visakhapatnam",
-      "gender": "Male"
+      "type": "Study Table",
+      "year": "2019",
+      "Description": "Wooden Table",
+      "Price": "50000"
+    }
+  ],
+  "wishlisted": [
+    {
+      "id": 1,
+      "type": "Study Table",
+      "year": "2019",
+      "Description": "Wooden Table",
+      "Price": "50000"
     }
   ]
 }
